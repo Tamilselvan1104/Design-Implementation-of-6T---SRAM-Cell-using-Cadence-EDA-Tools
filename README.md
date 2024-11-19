@@ -81,16 +81,16 @@ ii)	Create Schematic Cell view.
 - Check for the position of pin side.Prss OK
 - Edit for the shape by Create-Shape-Choose required options to edit.
 
-Analog simulation by SPECTRE.
--	In test cell view window
--	Launch – ADE L(Analog Design Environment)
-    .	Execute Setup—Simulation/directory/Host A new window opens
-    .	Set the simulation window to spectre and click ok
-    .	Execute Analysis – Choose. A window opens.
-    .	Select the type and set the specifications and press OK
-    .	Execute Output s—to be plotted – Select on Schematic
-    .	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
-+	Execute Simulation -- Net list and Run
+### Analog simulation by SPECTRE.
+- In test cell view window
+- Launch – ADE L(Analog Design Environment)
+  + Execute Setup—Simulation/directory/Host A new window opens
+  + Set the simulation window to spectre and click ok
+  + Execute Analysis – Choose. A window opens.
+  + Select the type and set the specifications and press OK
+  + Execute Output s—to be plotted – Select on Schematic
+  + Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
+-	Execute Simulation -- Net list and Run
 
   
 ![Screenshot 2024-11-11 181348](https://github.com/user-attachments/assets/f0228b59-974d-41ea-ad24-0b58fa5a31bb)
